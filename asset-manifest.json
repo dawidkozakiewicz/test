@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.d6d694b6.chunk.css",
+    "main.js": "/test/static/js/main.1b29ab94.chunk.js",
+    "main.js.map": "/test/static/js/main.1b29ab94.chunk.js.map",
+    "runtime~main.js": "/test/static/js/runtime~main.eded8796.js",
+    "runtime~main.js.map": "/test/static/js/runtime~main.eded8796.js.map",
+    "static/js/2.10946c00.chunk.js": "/test/static/js/2.10946c00.chunk.js",
+    "static/js/2.10946c00.chunk.js.map": "/test/static/js/2.10946c00.chunk.js.map",
+    "index.html": "/test/index.html",
+    "precache-manifest.50003bdf444bb0456743484d469e6c9b.js": "/test/precache-manifest.50003bdf444bb0456743484d469e6c9b.js",
+    "service-worker.js": "/test/service-worker.js",
+    "static/css/main.d6d694b6.chunk.css.map": "/test/static/css/main.d6d694b6.chunk.css.map",
+    "static/media/winter-icons.gif": "/test/static/media/winter-icons.57887880.gif"
+  }
+}
