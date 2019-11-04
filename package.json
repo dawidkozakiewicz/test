@@ -1,5 +1,5 @@
 {
-  "homepage": "http://dawidkozakiewicz.github.io/test/",
+  "homepage": "https://dawidkozakiewicz.github.io/test/",
   "name": "todoapp",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": " http://dawidkozakiewicz.github.io/test/"
+    "homepage": " https://dawidkozakiewicz.github.io/test/"
   },
   "eslintConfig": {
     "extends": "react-app"
